@@ -1,0 +1,13 @@
+# ambientes virtuais
+venv/
+.venv/
+nome_do_ambienteclear/
+# cache e DB locais
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+*.sqlite3
+# arquivos de build
+staticfiles/
