@@ -1,1 +1,1 @@
-web: gunicorn rifa.wsgi
+web: gunicorn pantanal.wsgi
