@@ -2,6 +2,7 @@
 venv/
 .venv/
 nome_do_ambienteclear/
+rifa_venv/
 # cache e DB locais
 __pycache__/
 *.pyc
